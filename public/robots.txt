@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /
+
+
+# 048NGKQ2UB99SB0T
